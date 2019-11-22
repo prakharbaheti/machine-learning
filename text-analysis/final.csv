@@ -1,0 +1,2 @@
+CIK,CONAME,FYRMO,FDATE,FORM,SECFNAME,MDA_positive_score,MDA_negative_score,MDA_polarity_score,MDA_average_sentence_length,MDA_percentage_of_complex_words,MDA_fog_index,MDA_complex_word_count,MDA_word_count
+3662,SUNBEAM CORP/FL/,199803,1998-03-06 00:00:00,10-K405,edgar/data/3662/0000950170-98-000413.txt,12,0,0.9999999166666736,7.5576923076923075,0.3193384223918575,3.1508122920336663,251,786
