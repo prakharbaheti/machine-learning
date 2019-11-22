@@ -1,4 +1,4 @@
-# American Sign Language
+# Predict ASL images
 
 American Sign Language (ASL) is the primary language used by many deaf individuals in North America, 
 and it is also used by hard-of-hearing and hearing individuals. The language is as rich as spoken languages 
